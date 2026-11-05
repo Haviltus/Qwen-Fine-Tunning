@@ -1,7 +1,4 @@
-# test- 32gg 
-
-<<<<<<< Updated upstream
 # Qwen 2.1 IMAGE
-=======
-#winter 
->>>>>>> Stashed changes
+
+# Qwen-Image-2.1 Turbo Quantized
+
